@@ -1,12 +1,12 @@
 export default [{
     id: 1,
-    orderDate: "9/19/2016",
-    orderTime: "6:44 AM",
+    orderDate: '9/19/2016',
+    orderTime: '6:44 AM',
     amount: 674.65
   }, {
     id: 2,
-    orderDate: "7/20/2016",
-    orderTime: "1:37 PM",
+    orderDate: '7/20/2016',
+    orderTime: '1:37 PM',
     amount: 2023.28
   }, {
     id: 3,
